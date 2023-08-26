@@ -1,0 +1,807 @@
+
+ body{
+	 display: flex;
+	 justify-content: center;
+	 align-items: center;
+	 margin : 0px;
+	 } 
+	 a{
+		 text-decoration: none;
+	 }
+	 #ic{
+		height : 42px;
+		margin-left : 100px; 
+		margin-top : 34px;"
+	 }
+	 #hand {
+		height : 30px;
+		width : 30px;
+	 }
+	 #man{
+		height : 100%;
+		width : 100%;"
+	 }
+.header{
+		margin : 0px;
+		padding : 0px;
+		height : 802px;
+		width : 100%;
+	}
+ .head{
+	 width : 100%;
+	 height : 116px;
+	 padding : 0px;
+	 display : flex;
+ }
+ 
+ #Home:hover , .About:hover{
+	 color : #055f5b;
+	 border-bottom : 1px  solid  #055f5b;
+ }
+ 
+ #Home{
+	 margin-top : 42px;
+	 margin-left : 213px;
+     text-align : left;
+	 color : gray;
+	 text-decoration : none;
+	 height : 17px;
+ }
+ 
+ .About{
+	 margin-top : 42px;
+	 margin-left : 100px;
+     text-align : left;
+	 color : gray;
+	 text-decoration : none;
+	 height : 17px;
+ }
+ 
+ #Talk{
+	 margin-top : 30px;
+	 margin-left : 162px;
+	 padding-top : 10px;
+	 padding-bottom : 5px;
+     text-align : center;
+	 background-color : #055f5b;
+	 font-size : 20px;
+	 border-radius : 30px;
+	 width : 135px;
+	 height : 30px;
+	 color : white;
+	 text-decoration : none;
+ }
+ 
+  .head-bottom {
+	  height : 686px;
+	  width : 100%;
+	  background-color : #055f5b;
+	  margin : 0px;
+	  padding : 0px;
+	  display : flex;
+  }
+  
+  .right-header{
+	 padding : 0px;
+	 margin : 0px;
+     width : 55.71%;
+     height : 100%;
+  }
+  
+  .left-header{
+	 margin : 0px 800px 0px 0px;
+	 padding : 0px;
+     height : 100%;
+	 width : 44.29%;
+	 margin-right : 0px;
+  }
+  
+  #hi{
+	  font-size : 30px;
+	  color : white;
+	  font-family : Gabriola;
+	  margin-left : 133px;
+	  margin-top : 149px;
+	  margin-bottom : 15px;
+	  
+  }
+  
+  #Building{
+	 font-size : 54px;
+	 color : white;
+	 font-family : Arial;
+	 margin-left : 133px;
+	 margin-top : 0px;
+	 padding-top : 0px;
+  }
+  
+  #A{
+	 font-size : 16px;
+	 color : white;
+	 font-family : Bahnschrift;
+	 margin-left : 133px;
+	 margin-top : 0px;
+	 margin-bottom : 50px;
+	 padding-top : 0px;
+	 font-weight : lighter;
+  }
+  
+  #hire-me{
+	 padding :23px 42px;
+	 margin-left : 172px;
+	 background-color : #055f5b;
+	 font-family : Bahnschrift;
+	 font-size : 20px;
+	 border-radius : 10px;
+	 color : white;
+	 text-decoration : none;
+ }
+ 
+  #download{
+	 padding :23px 42px;
+	 margin-left : 0px;
+	 background-color : #055f5b;
+	 font-family : Bahnschrift;
+	 font-size : 20px;
+	 border-radius : 10px;
+	 color : white;
+	 text-decoration : none;
+ }
+ 
+  #hire-me:hover , #download:hover{
+	 color : #055f5b;
+	 background-color : white;
+	 padding :23px 42px;
+ }
+ 
+  .middle {
+	 height : 3204px;
+	 width : 100%;
+	 margin : 0px;
+	 padding : 0px;
+  }
+  
+  .top {
+	  height : 663px;
+	  width : 100%;
+	  margin : 0px;
+	  padding : 0px;
+	  display : flex;
+  }
+  
+  .left-top {
+	  height : 100%;
+	  width : 50%;
+	  margin : 0px;
+	  padding : 0px;
+  }
+  
+  #one-picture{
+	  margin-top : 161px;
+	  margin-left : 134px;
+	  height : 438px;
+	  width : 570;
+  }
+  
+  .right-top {
+	 height : 100%;
+	 width : 50%;
+	 margin : 0px;
+	 position : relative;
+  }
+  
+  #service{
+     margin-left : 78px;
+	 margin-top : 161px;
+     font-size : 40px;
+	 color : #055f5b;
+	 font-family : Gabriola;
+	 position : absolute;
+  }
+  
+  #build{
+	 margin-left : 78px;
+	 font-size : 45px;
+	 color : black;
+	 font-family : Arial;
+	 position : absolute;
+	 margin-top : 220px;
+  }
+  
+  #creat{
+	 position : absolute;
+	 margin-top : 340px;
+	 margin-left : 78px;
+	 font-size : 16px;
+	 color : black;
+	 font-family : Bahnschrift;
+	 font-weight : lighter;
+  }
+  
+  .content-one{
+	 margin : 0px;
+	 height : 880px;
+	 width : 100%;
+	 display : flex;
+  }
+  
+  .one-left{
+	 height : 100%;
+	 width : 50%;
+     margin : 0px;
+	 padding : 0px;
+  }
+  
+  .one-right{
+	 height : 100%;
+	 width : 50%;
+	 margin : 0px;
+  }
+  
+  #featured{
+	 font-size : 45px;
+	 color : black;
+	 font-family : Arial;
+	 margin : 90px 0px 0px 136px;
+  }
+  
+  #explore{
+	 margin-left : 136px;
+	 font-size : 16px;
+	 color : black;
+	 font-family : Bahnschrift;
+	 font-weight : lighter;
+  }
+  
+  #one-left{
+	  height : 381px;
+	  width : 516px;
+	  margin : 60px 0px 0px 136px;
+  }
+  
+  #one-right{
+	  height : 381px;
+	  width : 516px;
+	  margin : 270px 0px 0px 64px;
+  } 
+  
+  .website{
+	 font-size : 30px;
+	 color : black;
+	 font-family : Arial;
+	 margin : 38px 0px 0px 136px;
+  }
+  
+  .our{
+	 margin: 5px 0px 0px 136px;
+	 font-size : 16px;
+	 color : black;
+	 font-family : Bahnschrift;
+	 font-weight : lighter;
+  }
+  .read{
+	 font-size : 15px;
+	 color :  #055f5b;
+	 font-family : Arial;
+	 margin : 15px 0px 0px 136px;
+	 text-decoration :none;
+  }
+  .arrow{
+	 width : 30px;
+	 height : 30px;
+	  
+  }
+  ul {
+  list-style-type: none;
+}
+
+  #left-list{
+	 list-style-image: url("../images/check.png");
+  	 font-size : 20px;
+	 color :  #055f5b;
+	 font-family : Arial;
+	 margin : 420px 0px 0px 90px;
+}
+
+  #right-list{
+	 list-style-image: url("../images/check.png");
+	 margin : 420px 0px 0px 85px;
+	 font-size : 20px;
+	 color :  #055f5b;
+	 font-family : Arial;
+}
+  .list{
+	display : flex;
+}
+
+  .dashboard{
+	 font-size : 30px;
+	 color : black;
+	 font-family : Arial;
+	 margin : 38px 0px 0px 64px;
+}
+
+  .product{
+	 margin: 5px 0px 0px 64px;
+	 font-size : 16px;
+	 color : black;
+	 font-family : Bahnschrift;
+	 font-weight : lighter;
+  }
+  .case{
+	 font-size : 15px;
+	 color :  #055f5b;
+	 font-family : Arial;
+	 margin : 15px 0px 0px 64px;
+	 text-decoration :none;
+  }
+  
+  .content-two{
+	  height : 700px;
+	  width : 100%;
+	  display : flex;
+  }
+  
+   .two-left{
+	 height : 100%;
+	 width : 50%;
+     margin : 0px;
+	 padding : 0px;
+  }
+  
+  .two-right{
+	 height : 100%;
+	 width : 50%;
+	 margin : 0px;
+  }
+  
+  #two-right{
+	  height : 381px;
+	  width : 516px;
+	  margin : 60px 0px 0px 64px;
+  } 
+  
+  .bottom{
+	  height : 940px;
+	  width : 100%;
+	  display : flex;
+  }
+  
+  .left-bottom{
+	 height : 100%;
+	 width : 50%;
+     margin : 0px;
+	 padding : 0px;
+  }
+  
+  .right-bottom{
+	 height : 100%;
+	 width : 50%;
+     margin : 0px;
+	 padding : 0px; 
+	 position : relative;
+  }
+  
+  #left-bottom{
+	  height : 427px;
+	  width : 445px;
+	  margin : 92px 0px 0px 136px;
+  }
+  
+  #successful{
+	 margin: 15px 0px 51px 136px;
+	 font-size : 16px;
+	 color : black;
+	 font-family : Bahnschrift;
+	 font-weight : lighter;
+  }
+  
+  #publish{
+	  margin-left : 136px;
+	  padding :17px 27px;
+	  border-radius : 30px;
+	  font-family : Arial;
+	  text-decoration : none;
+	  color : black;
+	  float : left;
+  }
+  
+  #market{
+	  margin-left : 0px;
+	  margin-right : 80px;
+	  padding :17px 27px;
+	  border-radius : 30px;
+	  font-family : Arial;
+	  text-decoration : none;
+	  color : black;
+	  float : left;
+  }
+  
+  #publish:hover , #market:hover{
+	 color : #083736;
+	 background-color : #d2fffd;
+ }
+ 
+ #if{
+	 margin :15px 0px 50px 68px;
+	 font-size : 16px;
+	 color : black;
+	 font-family : Bahnschrift;
+	 font-weight : lighter;
+  }
+  
+ #Go{
+	 margin : 0px 0px 0px 68px;
+	 padding : 22px 25px;
+	 background-color : #055f5b;
+	 font-size : 15px;
+	 border-radius : 30px;
+	 color : white;
+	 text-decoration : none;
+	 font-family : Arial;
+ }
+ 
+ #so{
+	 margin :0px 0px 0px 68px;
+	 font-family : Arial;
+	 font-size : 20px;
+	 color : black;
+ }
+ 
+ #small-top{
+	 height : 117px;
+	 width : 153px;
+	 margin : 0px 0px 0px 65px;
+	 
+ }
+ 
+ .one-small{
+	 height : 520px;
+	 width : 100%;
+	 position : absolute;
+ }
+ 
+ #blog{
+	 font-size : 35px;
+	 color : #083736;
+	 font-family : Arial;
+	 margin : 100px 0px 0px 68px;
+ }
+ 
+ .two-small{
+	 top : 520px;
+	 height : 139px;
+	 width : 100%;
+	 position : absolute;
+	 display : flex;
+ }
+ 
+ #date{
+	 margin :31px 0px 0px 68px;
+	 font-family : Bahnschrift;
+	 font-weight : lighter;
+	 font-size : 13px;
+ }
+ 
+ .three-small{
+	 top : 659px;
+	 height : 139px;
+	 width : 100%;
+	 position : absolute;
+	 display : flex;
+ }
+ 
+ .footer{
+	 height : 1816px;
+	 width : 100%;
+
+ }
+ 
+ .footer-top{
+	 height : 565px;
+	 background-color : #055f5b;
+	position : relative;
+ }
+ 
+ .foot-left{
+	 height : 100%;
+	 width : 50%;
+	 position : absolute;
+ }
+ 
+ #logo{
+	 margin : 172px 0px 0px 133px;
+	 width : 68px;
+	 height : 68px;
+	 float : left;
+ }
+ 
+ #customer{
+	 margin : 199px 8px 0px 40px;
+	 float : left;
+	 font-size : 25px;
+	 color : white;
+ }
+ 
+ #review{
+	 margin : 199px 0px 0px 0px;
+	 font-size : 25px;
+	 color : white;
+	 font-style : Bahnschrift;
+	 font-weight : lighter;
+ }
+ #that{
+	  margin : 65px 0px 0px 133px;
+	  color : white;
+	  font-size : 40px;
+	  font-family : Arial;
+ }
+ 
+ .foot-right{
+	 margin-left : 759px;
+	 height : 100%;
+	 width : 50%;
+	 position : absolute;
+ }
+ 
+ #star{
+	 height : 20px;
+	 width : 20px;
+	 float : left;
+	 margin : 163px 0px 0px 140px;
+ }
+ 
+ .other-star{
+	 height : 20px;
+	 width : 20px;
+	 float : left;
+	 margin : 163px 0px 0px 0px;
+ }
+ 
+ #managed{
+	 color : white;
+	 font-size : 15px;
+	 font-family : Bahnschrift;
+	 font-weight : lighter;
+	 margin : 215px 0px 0px 140px;
+ }
+ 
+ #mohammad{
+	 color : #b4d5d4;
+	 font-size : 20px;
+	 font-family : Bahnschrift;
+	 font-weight : lighter;
+	 margin : 43px 5px 0px 140px;
+	 float : left;
+ }
+ 
+ #ceo{
+	 font-family : AlBattar;
+	 margin : 35px 0px 0px 0px;
+	 font-size : 20px;
+	 color : #b4d5d4;
+	 font-weight : lighter;
+ }
+ 
+ #arrow-left{
+	 width : 40px;
+	 height : 34px;
+     margin : 42px 10px 0px 140px;
+	 float : left;
+	 transition : transform 0.3s ease-in-out;
+ }
+ 
+ #arrow-right{
+	  width : 40px;
+	 height : 34px;
+     margin : 42px 0px 0px 0px;
+	transition : transform 0.3s ease-in-out;
+ }
+ 
+ #arrow-left:hover , #arrow-right:hover{
+	 transform : scale(1.3);
+ }
+ 
+ .footer-content{
+	 margin : 0px;
+     height : 765px;
+	 position : relative;
+ }
+ .top-end{
+	 margin: 0px;
+	 padding : 0px;
+	 height : 272px;
+	 width : 100%;
+	 position : absolute;
+ }
+
+#faq{
+	margin-top : 166px;
+	text-align : center;
+	font-size : 20px;
+	font-family : Arial;
+}
+
+#ask{
+	margin-top : 24px;
+	text-align : center;
+	font-size : 35px;
+	font-family : Arial;
+	color : #083736;
+}
+
+.bottom-end{
+	position : absolute;
+	top : 272px;
+	height : 493px;
+	width : 100%;
+	display : flex;
+	position : relative;
+}
+
+.left-end{
+	height : 100%;
+	width : 50%;
+	position : absolute;
+}
+
+.right-end{
+	height : 100%;
+	width : 50%;
+	position : absolute;
+	left : 759px;
+}
+
+.one{
+	margin : 63px 0px 47px 132px;
+	font-size : 22px;
+	font-family : Arial;
+	color : black;
+	float : left;
+}
+
+hr{
+	width : 513px;
+	text-align :center;
+	border-color : #dedede;
+}
+
+#two{
+	margin : 37px 65px 21px 132px;
+	font-size : 22px;
+	font-family : Arial;
+	color : black;
+	float : left;
+}
+
+#two-text{
+	 margin : 20px 0px 42px 132px;
+	 color : #757575;
+	 font-size : 15px;
+	 font-family : Bahnschrift;
+	 font-weight : lighter;
+}
+
+.three{
+	margin : 37px 0px 37px 132px;
+	font-size : 22px;
+	font-family : Arial;
+	color : black;
+	float : left;
+}
+
+#bottom-arr{
+	width : 25px;
+	height : 15px;
+	margin : 67px 0px 0px 90px;
+}
+
+#bottom-ar{
+	width : 25px;
+	height : 15px;
+	margin : 45px 0px 10px 150px;
+}
+
+#bottom-a{
+	width : 25px;
+	height : 15px;
+	margin : 45px 0px 0px 138px;
+}
+
+#bottom-a1{
+	width : 25px;
+	height : 15px;
+	margin : 69px 0px 0px 147px;
+}
+
+#bottom-a2{
+	width : 25px;
+	height : 15px;
+	margin : 37px 0px 0px 42px;
+}
+
+#bottom-a3{
+	width : 25px;
+	height : 15px;
+	margin : 37px 0px 0px 45px;
+}
+
+.footer-bottom{
+	height : 486px;
+	width : 100%;
+    display : flex;
+}
+
+.end-one{
+	height : 100%;
+	width : 600px;
+	
+}
+
+#icon{
+	height : 36px;
+	width : 76px;
+	margin : 227px 0px 20px 137px;
+}
+
+#lorem{
+	 color : #757575;
+	 font-size : 15px;
+	 font-family : Bahnschrift;
+	 font-weight : lighter;
+	 margin : 0px 0px 45px 136px;
+}
+
+#facebook{
+	margin : 0px 0px 5px 133px;
+	height : 31px;
+	width : 30px;
+	float : left;
+}
+
+.insta{
+	margin : 0px 0px 0px 30px;
+	height : 31px;
+	width : 30px;
+	float : left;
+}
+
+h2{
+	margin : 227px 0px 0px 109px;
+	font-size : 20px;
+	font-family : Arial;
+	color : #083736;
+}
+
+#li{
+	 margin : 20px 0px 0px 70px;
+	 color : #757575;
+	 font-size : 15px;
+	 font-family : Bahnschrift;
+	 font-weight : lighter;
+}
+
+.id{
+	padding-top : 10px;
+	color : #757575;
+	 font-size : 15px;
+	 font-family : Bahnschrift;
+	 font-weight : lighter;
+}
+
+.end-three{
+	width : 200px;
+	height : 100%;
+}
+
+.end-four{
+	height : 100%;
+	width : 600px;
+}
+
+#date-1{
+	 margin :70px 0px 0px 0px;
+	 font-family : Bahnschrift;
+	 font-weight : lighter;
+	 font-size : 13px;
+}
